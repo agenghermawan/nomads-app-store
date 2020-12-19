@@ -9,4 +9,7 @@ class HomeController extends Controller
     public function index(Request $request){
         return view('pages.home');
     }
+    public function details(Request $request){
+        return view("layout.details");
+    }
 }

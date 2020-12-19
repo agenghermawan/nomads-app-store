@@ -1,7 +1,8 @@
-<link href="{{ url('backend/vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
-<link
-    href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+<link rel="stylesheet" href="{{ url('frontend/backend/libraries/bootstrap/css/bootstrap.css') }}">
+<link  
+    href="https://fonts.googleapis.com/css?family=Assistant:200,300,400,600,700,800|
+    Playfair+Display:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" 
     rel="stylesheet">
-
-<!-- Custom styles for this template-->
-<link href="{{ url('backend/css/sb-admin-2.min.css') }}" rel="stylesheet">
+<link rel="stylesheet" href="{{ url('frontend/backend/styles/main.css') }}">
+<link rel="stylesheet" href="{{ url('frontend/backend/libraries/xzoom/xzoom.css') }}">
+<link rel="stylesheet" href="{{ url('frontend/libraries/gijgo/css/gijgo.min.css') }}">   
